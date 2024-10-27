@@ -20,4 +20,4 @@ Identified patterns showing which restaurants received the most ratings and how 
 
 ### Top Rated Restaurants:
 
-Compiled a list of restaurants with the highest ratings and analyzed factors contributing to their success.
+Compiled a list of restaurants with the highest ratings and votes and analyzed factors contributing to their success.
